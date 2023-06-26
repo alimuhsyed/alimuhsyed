@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**alimuhsyed/alimuhsyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hi I'm Ali and welcome to my GitHub profile, where data analysis takes center stage! As a passionate and results-driven data analyst, I am thrilled to share my projects, insights, and explorations in the realm of data on this platform.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+1. Python
+2. SQL
+3. Power BI
+4. Microsoft Excel
+5. Exploratory Data Analysis
+6. ETL
+7. Visualizations
+8. Dashboards
